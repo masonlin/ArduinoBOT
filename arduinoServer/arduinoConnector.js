@@ -76,7 +76,7 @@ socketIO.on('led_off', function() {
 });
 
 socketIO.on('led_blink', function() {
-  if(led) { led.blink(500); }
+  if(led) { led.blink(300); }
 });
 
 // return corresponding values of sensor
