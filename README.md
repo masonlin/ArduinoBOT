@@ -33,7 +33,7 @@ connected to server!
 Connected to Socket.IO server
 firmata over TCP is ready
 ...
-johnny-five is ready
+>> johnny-five is ready
 ```
 ### Messenger BOT server
 
