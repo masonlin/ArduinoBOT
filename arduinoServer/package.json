@@ -5,6 +5,7 @@
     "firmata": "^0.12.0",
     "johnny-five": "^0.9.56",
     "net": "^1.0.2",
+    "socket.io-client": "^1.4.8",
     "udp-serial": "^0.2.0"
   }
 }
