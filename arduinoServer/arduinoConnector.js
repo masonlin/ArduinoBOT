@@ -14,7 +14,7 @@ var currentHumidity = 0.0;
 
 // TCP連線設定
 var options = {
-  host: '192.168.31.105',  // IP of Arduino
+  host: 'YOUR_ARDUINO_IP',  // IP of Arduino
   port: 5055  //任意的port，但必需和你設在 /etc/ser2net.conf 的port要一致
 };
 
